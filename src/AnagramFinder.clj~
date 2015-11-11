@@ -1,0 +1,4 @@
+(ns AnagramFinder)
+
+(def t1 ["meat" "mat" "team" "mate" "eat"])
+(def e1 #{#{"meat" "team" "mate"}})

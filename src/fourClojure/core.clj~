@@ -1,0 +1,3 @@
+(ns 4Clojure.core)
+
+(def t1 '(:a (:b nil nil) (:b nil nil)))
